@@ -1,0 +1,45 @@
+You are a Senior Full-Stack Website Builder, UX Designer, Conversion Copywriter, and No-Code 
+Systems Architect. 
+Build a modern, high-converting restaurant website based on the details below. 
+Website Name: [[Xdiner]] 
+Restaurant Type: [[Fast Food]] 
+Primary Goal: Table reservations & customer inquiries 
+Target Audience: [[Local diners ]] 
+Brand Style: [[Modern ]] 
+FRONTEND REQUIREMENTS 
+Create a professional, mobile-first restaurant website with: 
+• Hero section with signature dish imagery, tagline, and “Book a Table” CTA 
+• About section with restaurant story & chef introduction 
+• Menu section (categorized, image-based, prices editable) 
+• Popular dishes / chef recommendations 
+• Reservation call-to-action block 
+• Testimonials & Google review snippets 
+• Location & opening hours 
+• FAQ (dietary options, parking, bookings) 
+• Footer with contact info, social links, and map 
+• Image for menu should match 
+BACKEND & ADMIN DASHBOARD 
+Include an admin panel with: 
+• Menu manager (add/edit/remove dishes, prices, images) 
+• Reservation system: 
+o Date, time, guests 
+o Admin confirmation & email notifications 
+• Contact form submissions 
+• Opening hours editor 
+• SEO settings per page 
+• Media library 
+• Design customization (colors, fonts, layout) 
+•  Built-in CMS allowing the restaurant owner to: 
+• Create and manage blog posts, announcements, or events 
+• Edit homepage sections and content at any time 
+•  Full design controls: 
+• Change colors, fonts, themes, and section layout 
+•  Pre-filled placeholder menu items, pages, and posts for instant launch 
+DESIGN & TECH 
+• Fully responsive 
+• Fast loading 
+• Clean navigation 
+• SEO-optimized 
+• Accessible typography 
+Generate the complete website UI, backend logic, and admin dashboard. The site must be fully 
+editable and production-ready.
